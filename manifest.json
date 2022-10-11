@@ -1,6 +1,6 @@
 {
-    "name": "company_website",
-    "short_name": "company_website",
+    "name": "portfolio_website",
+    "short_name": "portfolio_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
